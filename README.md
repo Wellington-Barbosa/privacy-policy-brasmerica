@@ -1,6 +1,6 @@
 # Política de Privacidade
 
-Esta aplicação ("App") foi desenvolvida por [Seu Nome ou Nome da Empresa] com o objetivo de [resumo da funcionalidade principal, ex: fornecer um catálogo de serviços/produtos]. A sua privacidade é importante para nós.
+Esta aplicação ("App") foi desenvolvida por Wellington Barbosa de Jesus com o objetivo de fornecer um catálogo de serviços/produtos. A sua privacidade é importante para nós.
 
 ## 1. Coleta de Informações
 
